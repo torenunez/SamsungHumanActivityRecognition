@@ -7,8 +7,7 @@ This repo was created as part of a project assignment from [this course.](https:
 Most of the files contained herein are from the unzipped file downloaded from [here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 **Three additional files are contained within the same repository:**  
-1. This "README.md"" file.   
-  * The unzipped file contained its own "README.txt"" file which explains the contents of the raw data.   
+1. This "README.md"" file. The unzipped file contained its own "README.txt"" file which explains the contents of the raw data.     
 2. The R script: "HumanActivityRecognition.R".   
 3. The output of the R script: "subject_activity_summary.txt".  
 
